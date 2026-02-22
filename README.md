@@ -1,6 +1,6 @@
 ## 📋 Sobre o Projeto
 
-Este projeto utiliza IA para tornar o conhecimento científico sobre a polilaminina — uma proteína com potencial para regeneração da medula óssea — acessível a pacientes, familiares e público em geral.
+Este projeto utiliza IA para tornar o conhecimento científico sobre a polilaminina — uma glicoproteína com potencial em processos de regeneração da medula espinhal — acessível a pacientes, familiares e público em geral.
   
 Desenvolvido durante o curso GenAI & Dados da DIO, utilizando o Google NotebookLM como ferramenta principal para criação e síntese de informações.
 
